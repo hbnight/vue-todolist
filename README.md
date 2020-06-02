@@ -2,6 +2,6 @@
 
 npm install 
 
-webpack    a a
+webpack    a a aaa
 
 打开dist文件夹下的index.html查看效果
